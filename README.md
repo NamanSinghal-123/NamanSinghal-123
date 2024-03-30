@@ -14,8 +14,6 @@ I'm currently working on django project<br>i'm currently exploring machine learn
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NamanSinghal-123&icon=0&color=0)](https://visitcount.itsvg.in)
-# My LeetCode Profile
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=death_eater1&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
