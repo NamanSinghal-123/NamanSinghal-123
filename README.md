@@ -1,10 +1,4 @@
-# 💫 About Me:
-🚀 I'm currently working on **Django projects**  
-🤖 Exploring **Machine Learning**  
-🌱 Looking for help in **MERN stack projects**  
-🎌 Fun fact: I love watching anime  
 
----
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/learner_1)  
