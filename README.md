@@ -41,9 +41,4 @@
 
 ---
 
-## 👀 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=NamanSinghal-123&icon=5&color=6)
-
----
-
 ✨ *"Always learning, always building."*
